@@ -18,7 +18,7 @@ I build dependable data pipelines that connect engineering with business decisio
 
 Synthetic orders, payments, returns and products are reconciled into daily net revenue, refund rates and product rankings. The local demo includes four passing tests. AWS S3, Glue and Athena Terraform and an optional Airflow DAG are included; cloud deployment remains untested.
 
-[Review the pipeline](https://github.com/bhavukj100/aws-retail-sales-pipeline/blob/main/pipeline.py) · [Browse the repository](https://github.com/bhavukj100/aws-retail-sales-pipeline)
+[Review the pipeline](https://github.com/bhavukj100/aws-retail-sales-pipeline) · [Browse the repository](https://github.com/bhavukj100/aws-retail-sales-pipeline)
 
 </details>
 
@@ -34,6 +34,8 @@ Synthetic orders, payments, returns and products are reconciled into daily net r
 
 ## Maintenance you can inspect
 
-[View daily portfolio checks](https://github.com/bhavukj100/bhavukj100.github.io/actions) · [Read the automated validation report](https://github.com/bhavukj100/bhavukj100.github.io/blob/main/ACTIVITY.md)
+[![Daily portfolio checks](https://github.com/bhavukj100/bhavukj100.github.io/actions/workflows/daily-checks.yml/badge.svg)](https://github.com/bhavukj100/bhavukj100.github.io/actions/workflows/daily-checks.yml)
+
+[View daily portfolio checks](https://github.com/bhavukj100/bhavukj100.github.io/actions) · [Read the automated validation report](https://github.com/bhavukj100/bhavukj100.github.io/blob/master/ACTIVITY.md)
 
 Scheduled maintenance is automated and recorded separately from personal development work. Public demos use synthetic data and exclude employer code and datasets.
