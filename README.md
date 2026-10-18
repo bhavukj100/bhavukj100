@@ -6,6 +6,15 @@ I build dependable data pipelines that connect engineering with business decisio
 
 [**Explore my portfolio →**](https://bhavukj100.github.io/) · [**Try the interactive demo →**](https://bhavukj100.github.io/#demo) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/bhavukj100/)
 
+## AWS certification
+
+<a href="https://www.credly.com/badges/913c36e8-3980-470e-8fbb-4fef7230b443"><img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/linkedin_thumb_image.png" alt="AWS Certified Data Engineer Associate badge" width="240"></a>
+
+**AWS Certified Data Engineer – Associate**  
+Issued by Amazon Web Services Training and Certification.
+
+[Verify my credential on Credly →](https://www.credly.com/badges/913c36e8-3980-470e-8fbb-4fef7230b443)
+
 ## Explore the work
 
 | Project | What you can explore | Open |
