@@ -4,7 +4,7 @@
 
 I build dependable data pipelines that connect engineering with business decisions. My background spans travel technology, cloud services, and fintech.
 
-[**Explore my portfolio →**](https://bhavukj100.github.io/) · [**Try the interactive demo →**](https://bhavukj100.github.io/#demo) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/bhavukj100/)
+[**Explore my portfolio →**](https://bhavukj100.github.io/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=portfolio_link) · [**Try the interactive demo →**](https://bhavukj100.github.io/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=demo_link#demo) · [**Connect on LinkedIn →**](https://www.linkedin.com/in/bhavukj100/)
 
 ## AWS certification
 
@@ -20,7 +20,7 @@ Issued by Amazon Web Services Training and Certification.
 | Project | What you can explore | Open |
 | --- | --- | --- |
 | **AWS Retail Sales Pipeline** | Order, payment and refund reconciliation with PySpark; Parquet analytics; data quality checks; AWS infrastructure definitions | [Source & setup](https://github.com/bhavukj100/aws-retail-sales-pipeline) |
-| **Data Engineering Portfolio** | Project walkthroughs, background and an interactive analytics demo | [Live website](https://bhavukj100.github.io/) · [Source](https://github.com/bhavukj100/bhavukj100.github.io) |
+| **Data Engineering Portfolio** | Project walkthroughs, background and an interactive analytics demo | [Live website](https://bhavukj100.github.io/?utm_source=github&utm_medium=referral&utm_campaign=github_profile&utm_content=project_table) · [Source](https://github.com/bhavukj100/bhavukj100.github.io) |
 
 <details>
 <summary><strong>Inside the retail pipeline</strong></summary>
