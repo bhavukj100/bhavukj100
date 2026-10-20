@@ -31,7 +31,7 @@ Move the coverage target and watch the selected group change. A small demo makes
 
 ---
 
-**Core toolkit:** Python · SQL · Spark · AWS · Snowflake · dbt
+**Core toolkit:** Python · SQL · Spark · AWS · Snowflake · Databricks · dbt
 
 <a href="https://www.credly.com/badges/913c36e8-3980-470e-8fbb-4fef7230b443"><img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/linkedin_thumb_image.png" alt="Verify AWS Certified Data Engineer Associate credential" width="140"></a>
 
